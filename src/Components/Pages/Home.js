@@ -12,7 +12,7 @@ import Card from 'react-bootstrap/Card';
 function Home() {
   return (
     <div>
-        <div >
+        <div className='transparent' >
             <Navbar bg="transparent fixed" data-bs-theme="light">
             <Container>
             <Navbar.Brand href="#home"><img src='../../Images/logo.jpg'/></Navbar.Brand>
