@@ -61,7 +61,7 @@ function Home() {
             
         </div>
 
-        <div className='m-3 p-5'>
+        <div className='m-3 p-5  text-center'>
             <h1><i>New On The Shelf</i></h1>
             <button className='rounded-pill bg-white border p-2 m-3  '>View All</button>
         </div>
@@ -148,13 +148,13 @@ function Home() {
                     <h5>FASHION L❤VES COMFORT</h5>
                     <p>Created as an ode to all the women who are the first ones to hustle their way up and the last ones to leave the dance floor.</p>
                     <p>Founded by a fashion lover with a crazy passion for design who's an eternal sucker for comfort.</p>
-                    <button className='rounded-pill bg-dark text-white p-2 border-0'>Read ME</button>
+                    <button className='rounded-pill bg-dark text-white p-2 border-0'>Read Me</button>
                 </div>
 
 
         </div>
 
-        <div className='m-3 p-5'>
+        <div className='m-3 p-5 text-center'>
             <h1><i>Selling Hot</i></h1>
             <button className='rounded-pill bg-white border p-2 m-3  '>View All</button>
         </div>
@@ -246,7 +246,7 @@ function Home() {
             
         </div>
 
-        <div className='m-3 p-5'>
+        <div className='m-3 p-5  text-center'>
             <h1><i>Shope By catogery</i></h1>
            
         </div>
@@ -350,14 +350,14 @@ function Home() {
 
         </div>
 
-        <div className='mt-5 p-5 ' style={{backgroundColor:"#EFEBEB"}}> 
+        <div className='mt-5 p-5  text-center ' style={{backgroundColor:"#EFEBEB"}}> 
             <h1><i>Join Our shoe tribe</i></h1>
             <p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>
             <input type='email' placeholder='Enter Your Email'></input>
             <button className=' bg-dark text-white     '>Subscribe</button>
         </div>
 
-        <div className='m-3 p-5'>
+        <div className='m-3 p-5  text-center'>
             <h1><i>#monrowtribe</i></h1>
            
         </div>
@@ -414,7 +414,7 @@ function Home() {
             
         </div>
 
-        <div className='p-5 mt-5' style={{backgroundColor:"#EFEBEB"}}>
+        <div className='p-5 mt-5  text-center' style={{backgroundColor:"#EFEBEB"}}>
             <div className='d-flex justify-content-center'>
             <div>
                 <h5>INFORMATION</h5>

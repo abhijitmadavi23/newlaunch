@@ -1,5 +1,8 @@
-.App {
+/* .App {
   text-align: center;
+
+  
+  
 }
 
 .App-logo {
@@ -39,4 +42,16 @@
 
 .card:hover {
   transform: scale(1.1);
+}
+
+.loading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.loading{
+ text-align: center;
+ margin-top: 22%;
+
 }
